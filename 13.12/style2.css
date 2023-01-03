@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(102,0,51);
+}
+.d1
+{
+    background-color: #ccffcc;
+    border-radius: 20px 20px 20px 0px;
+    text-align: center;
+}
+
+.d2
+{
+    background-color: #ccffcc;
+    border-radius: 20px 20px 0px 0px;
+    text-align: center;
+}
+
+.d3
+{
+    border-radius: 20px;
+    background-color: #ccffcc;
+    font-style: #ccffcc;
+    text-align: center;
+    
+}

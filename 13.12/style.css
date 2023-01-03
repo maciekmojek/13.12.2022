@@ -1,0 +1,33 @@
+
+.d1
+{
+border-top: 3px red dashed;
+border-color: red;
+border-bottom: 5px double green;
+}
+
+
+.d2
+{
+border-top: 3px red dashed;
+border-color: red;
+}
+
+.d3
+{
+border-top: 3px red dashed;
+border-color: red;
+}
+
+.d4
+{
+border-top: 3px red dashed;
+border-color: red;
+}
+
+.d5
+{
+border-top: 3px red dashed;
+border-color: red;
+border-left: 10px dotted blue;
+}
